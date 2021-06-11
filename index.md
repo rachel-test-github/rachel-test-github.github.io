@@ -7,8 +7,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Current Interests and Projects:
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+- Data 
+- Repositories
+- Digital archives
+
+### H3  
+ 
+_this is italic text._
+**this is bold text.**
+[this is a link](www.test.com)
