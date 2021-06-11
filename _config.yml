@@ -1,14 +1,14 @@
 # Site wide configuration
 
-title: Site Title
+title: Rachel Academic Site
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Rachel
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
+  bio: "A person testing a Jeykll template"
   email: #emailaddress
   # Do not include the @ symbol in your Twitter username
   twitter: #username
