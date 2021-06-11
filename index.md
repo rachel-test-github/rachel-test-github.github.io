@@ -13,6 +13,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### H3  
  
-_this is italic text._
-**this is bold text.**
-[this is a link](www.test.com)
+_this is italic text._ 
+**this is bold text.** 
+[this is a link](www.test.com) 
