@@ -13,6 +13,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### H3  
  
-_this is italic text._ 
-**this is bold text.** 
-[this is a link](www.test.com) 
+_this is italic text._  
+**this is bold text.**  
+[this is a link](https://www.test.com) 
+ 
+ 
+![Pile of books](https://www.incimages.com/uploaded_files/image/1920x1080/getty_655998316_2000149920009280219_363765.jpg)
